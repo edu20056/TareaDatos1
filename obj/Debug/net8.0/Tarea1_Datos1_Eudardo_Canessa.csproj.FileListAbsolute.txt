@@ -1,0 +1,14 @@
+C:\Users\ejcan\Desktop\Tarea1_Datos1_Eudardo_Canessa\bin\Debug\net8.0\Tarea1_Datos1_Eudardo_Canessa.exe
+C:\Users\ejcan\Desktop\Tarea1_Datos1_Eudardo_Canessa\bin\Debug\net8.0\Tarea1_Datos1_Eudardo_Canessa.deps.json
+C:\Users\ejcan\Desktop\Tarea1_Datos1_Eudardo_Canessa\bin\Debug\net8.0\Tarea1_Datos1_Eudardo_Canessa.runtimeconfig.json
+C:\Users\ejcan\Desktop\Tarea1_Datos1_Eudardo_Canessa\bin\Debug\net8.0\Tarea1_Datos1_Eudardo_Canessa.dll
+C:\Users\ejcan\Desktop\Tarea1_Datos1_Eudardo_Canessa\bin\Debug\net8.0\Tarea1_Datos1_Eudardo_Canessa.pdb
+C:\Users\ejcan\Desktop\Tarea1_Datos1_Eudardo_Canessa\obj\Debug\net8.0\Tarea1_Datos1_Eudardo_Canessa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ejcan\Desktop\Tarea1_Datos1_Eudardo_Canessa\obj\Debug\net8.0\Tarea1_Datos1_Eudardo_Canessa.AssemblyInfoInputs.cache
+C:\Users\ejcan\Desktop\Tarea1_Datos1_Eudardo_Canessa\obj\Debug\net8.0\Tarea1_Datos1_Eudardo_Canessa.AssemblyInfo.cs
+C:\Users\ejcan\Desktop\Tarea1_Datos1_Eudardo_Canessa\obj\Debug\net8.0\Tarea1_Datos1_Eudardo_Canessa.csproj.CoreCompileInputs.cache
+C:\Users\ejcan\Desktop\Tarea1_Datos1_Eudardo_Canessa\obj\Debug\net8.0\Tarea1_Datos1_Eudardo_Canessa.dll
+C:\Users\ejcan\Desktop\Tarea1_Datos1_Eudardo_Canessa\obj\Debug\net8.0\refint\Tarea1_Datos1_Eudardo_Canessa.dll
+C:\Users\ejcan\Desktop\Tarea1_Datos1_Eudardo_Canessa\obj\Debug\net8.0\Tarea1_Datos1_Eudardo_Canessa.pdb
+C:\Users\ejcan\Desktop\Tarea1_Datos1_Eudardo_Canessa\obj\Debug\net8.0\Tarea1_Datos1_Eudardo_Canessa.genruntimeconfig.cache
+C:\Users\ejcan\Desktop\Tarea1_Datos1_Eudardo_Canessa\obj\Debug\net8.0\ref\Tarea1_Datos1_Eudardo_Canessa.dll
